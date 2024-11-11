@@ -7,7 +7,7 @@
     "url": "git+https://github.com/bondar-artem/pw-practice-app.git"
   },
   "scripts": {
-    "ng": "ng",
+    "build": "ng build",
     "start": "ng serve"
   },
   "dependencies": {
